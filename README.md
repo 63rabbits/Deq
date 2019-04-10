@@ -1,3 +1,4 @@
 # Deq
 
-Deq using dualy-linked list.
+Deq using using [Dualy-Linked List](https://github.com/63rabbits/DualyLinkedList).
+
